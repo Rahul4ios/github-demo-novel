@@ -1,4 +1,0 @@
-File2 line1
-File2 line2
-File2 line3
-File2 line4
